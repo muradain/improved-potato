@@ -41,7 +41,7 @@ MegaSportStatTracker 3000000!
 This program will output a players personal information and any/all relevant statistical information needed to better track fantasy sports. The data will be output in a simple text format that is easy to read.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-@@ -51,11 +50,11 @@ Describe at a high level a program that could solve that problem.
+Player statistics manually inputed or automatically pulled from web resources, including variables such as player name, number, team, and various statistics depending on the sport, such as stat types (meta) and things like goals scored or runs batted in. Example input: sport: football; player first name: aaron; player last name: rodgers; number: 12; height inches: 74; etc.
 
 4. User Interface: Describe a user interface for your program. Use text menus or a simple graphic user interface. 
 We want to shy away from simple text menus. We could do simple search by player name or an advanced boolean style search to add aditional details like player team or player number or hometown etc. After a search is performed, a list of players is displayed and the user can choose a player to display all of the relevant statistics.
