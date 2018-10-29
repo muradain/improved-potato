@@ -43,6 +43,9 @@ This program will output a players personal information and any/all relevant sta
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 @@ -51,11 +50,11 @@ Describe at a high level a program that could solve that problem.
 
+4. User Interface: Describe a user interface for your program. Use text menus or a simple graphic user interface. 
+We want to shy away from simple text menus. We could do simple search by player name or an advanced boolean style search to add aditional details like player team or player number or hometown etc. After a search is performed, a list of players is displayed and the user can choose a player to display all of the relevant statistics.
+
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Person, HashTable
 
