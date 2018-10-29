@@ -43,8 +43,9 @@ MegaSportStatTracker 3000000!
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
-
+Describe the data that is needed to solve your problem. Include an example format of the input data.
+Player statistics manually inputed or automatically pulled from web resources, including variables such as player name, number, team, and various statistics depending on the sport, such as stat types (meta) and things like goals scored or runs batted in.
+Example input: sport: football; player first name: aaron; player last name: rodgers; number: 12; height inches: 74; etc.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 We want to shy away from simple text menus. We could do simple search by player name or an advanced boolean style search to add aditional details like player team or player number or hometown etc.
