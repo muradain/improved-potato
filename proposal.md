@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# X-Team 40 Project Proposal
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -35,7 +35,7 @@ Describe at a high level a program that could solve that problem.
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
-
+MegaSportStatTracker 3000000!
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
@@ -43,11 +43,12 @@ Describe at a high level a program that could solve that problem.
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-Player statistics manually inputed or automatically pulled from web resources, including variables such as player name, number, team, and various statistics depending on the sport, such as stat types (meta) and things like goals scored or runs batted in.
-Example input: sport: football; player first name: aaron; player last name: rodgers; number: 12; height inches: 74; etc.
+
+
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+We want to shy away from simple text menus. We could do simple search by player name or an advanced boolean style search to add aditional details like player team or player number or hometown etc.
+After a search is performed, a list of players is displayed and the user can choose a player to display all of the relevant statistics. 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
