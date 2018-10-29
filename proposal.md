@@ -38,23 +38,24 @@ Describe at a high level a program that could solve that problem.
 
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced. 
-This program will output a players personal information and any/all relevant statistical information needed to better track fantasy sports. The data will be output in a simple text format that is easy to read.
+2. Output: Describe the output your program will produce.  Include and example format of the output produced.
+
+
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
-
+Player statistics manually inputed or automatically pulled from web resources, including variables such as player name, number, team, and various statistics depending on the sport, such as stat types (meta) and things like goals scored or runs batted in.
+Example input: sport: football; player first name: aaron; player last name: rodgers; number: 12; height inches: 74; etc.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-Person, HashTable
+
 
 
 Name each interface or class and briefly describe its function or purpose.
-We will have a Person class to store data about each induvidual player. We will also have a HashTable class or similiar data structure to store players in. The HashTable class will also handle user input and display information.
+
 
 ## Edit and Submit this file and any figures referenced by this document.
 
